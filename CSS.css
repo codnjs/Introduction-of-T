@@ -1,0 +1,69 @@
+.id1:link, .id1:visited {
+                        background-color: #f0f0f0;
+                        color : tomato;
+                        padding: 10px 15px;
+                        text-align: center;
+                        text-decoration: none;
+                        display: inline-block;
+                }
+
+.id1:hover, .id1:active {
+                        background-color: tomato;
+                        color: #f0f0f0;
+                }
+
+
+.id2:link, .id2:visited {
+                        background-color: #f0f0f0;
+                        color : #9487E6;
+                        padding: 10px 15px;
+                        text-align: center;
+                        text-decoration: none;
+                        display: inline-block;
+                      }
+.id2:hover, .id2:active {
+                        background-color: #AEA6E6;
+                        color: #f0f0f0;
+                      } 
+
+
+.id3:link, .id3:visited {
+                        background-color: #f0f0f0;
+                        color : #9487E6;
+                        padding: 10px 15px;
+                        text-align: center;
+                        text-decoration: none;
+                        display: inline-block;
+                      }
+.id3:hover, .id3:active {
+                        background-color: #AEA6E6;
+                        color: #f0f0f0;
+                      }  
+.id4:hover{
+            color: tomato;
+           }
+
+.button {
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+        
+.button {
+    background-color: tomato;
+    color: white;
+    border: 2px solid white;
+}
+
+.button:hover {
+    background-color: white;
+    color: tomato;
+}
+.button {
+    border-radius: 4px;
+        }
